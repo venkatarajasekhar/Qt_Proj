@@ -1,0 +1,13 @@
+﻿players[E]player的复数，比赛者[L]A football team needs at least 11 players.
+strongest[E]strong的最高级，最强壮的[L]He is the one of the strongest man in this room.
+teams[E]team的复数，队伍[L]Many teams from all over the world will come here and take part in the game.
+begins[E]begin的三单式[L]When the game begins, you will die.
+b[E]第二个英文字母[L]B is the second letter in the alphabet.
+fuck[E]叼[L]Fuck you!去你奶奶的！
+playing[E]play的动名词[L]I am playing computer game.
+Tuhao[E]n.土豪[L]Most peaple want to make friends with Tuhao.
+biggest[E]最大[L]I like the bigest apple.
+reminds[E]remind三单式[L]It reminds me of her.
+teenagers[E]teenager的复数[L]We are teenagers.
+Diaosi[E]n.屌丝[L]No one is willing to make friends with Diaosi.
+diaosi[E]asdfadg[L]打法的发送到

@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>res/logo.png</file>
+        <file>res/bg.jpg</file>
+        <file>res/exit.png</file>
+        <file>res/exit_hover.png</file>
+        <file>res/find.png</file>
+        <file>res/tran.png</file>
+        <file>res/configure.png</file>
+        <file>res/info.png</file>
+        <file>res/bg.png</file>
+        <file>res/dialogbg.png</file>
+        <file>res/autotranbg.png</file>
+        <file>res/on_off.gif</file>
+        <file>res/inputdlgbg.png</file>
+    </qresource>
+</RCC>

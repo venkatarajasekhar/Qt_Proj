@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\qmyhashthread.o
+./release\dialog.o
+./release\qmytextedit.o
+./release\inputdialog.o
+./release\qaddfilethread.o
+./release\qrc_Image.o
+./release\moc_mainwindow.o
+./release\moc_qmyhashthread.o
+./release\moc_dialog.o
+./release\moc_qmytextedit.o
+./release\moc_inputdialog.o
+./release\moc_qaddfilethread.o
+);
